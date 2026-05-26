@@ -56,13 +56,7 @@ I'm a passionate full stack developer with a focus on building **scalable, user-
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yahya-salhi&show_icons=true&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/yahya-salhi)
-  
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahya-salhi&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/yahya-salhi)
   
 </div>
 
