@@ -75,6 +75,6 @@ I'm a passionate full stack developer with a focus on building **scalable, user-
   
   **Let's collaborate and create something amazing together!** 🚀
   
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pcclub10@gmail.com)
   
 </div>
